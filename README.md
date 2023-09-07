@@ -41,7 +41,9 @@ How many passwords do you want to generate:  3
 Enter the desired password length (at least 6):  10
 
 Password 1 --> Ab3$Zr7@tP
+
 Password 2 --> Ks#1oN8dFq
+
 Password 3 --> 2hVx9$RjEk
 
 
