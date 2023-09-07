@@ -19,7 +19,8 @@ The **Password Generator** is a simple Python script that generates random passw
 4. Run the script by entering the following command:
 
    ```bash
-python password_generator.py
+   python password_generator.py
+
 
 Follow the on-screen prompts:
 
